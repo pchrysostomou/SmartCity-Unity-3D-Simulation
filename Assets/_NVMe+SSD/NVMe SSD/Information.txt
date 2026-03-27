@@ -1,0 +1,9 @@
+NVMe M.2 SSD.
+
+1500x1300 Color, Normal, Metallic, Roughness.
+
+125 Vertices
+99 Faces
+246 Tris
+
+(Counting tris as polygons)
